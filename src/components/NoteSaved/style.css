@@ -1,3 +1,7 @@
 .titleShowNote {
   cursor: pointer;
 }
+
+.savedNote {
+  overflow: auto;
+}

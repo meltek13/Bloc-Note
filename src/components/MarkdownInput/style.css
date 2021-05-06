@@ -6,8 +6,10 @@
   height: 40px;
 }
 .textarea {
-  height: 190px;
+  height: 180px;
+  margin-bottom: 90px;
 }
+
 .input,
 .textarea {
   margin: 10px;
@@ -26,7 +28,7 @@
   color: white;
   width: 80%;
   min-height: 100%;
-  margin-right: 2px;
+
   padding: 10px;
 }
 .containerForm {

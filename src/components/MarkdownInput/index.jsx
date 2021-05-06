@@ -48,7 +48,7 @@ const MarkdownInput = ({ data }) => {
             <button
               type="submit"
               onClick={handleSave}
-              className="btn btn-danger"
+              className="btn btn-danger "
             >
               Sauvegarder
             </button>
