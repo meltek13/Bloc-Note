@@ -1,0 +1,34 @@
+.form {
+  display: flex;
+  flex-direction: column;
+}
+.input {
+  height: 40px;
+}
+.textarea {
+  height: 190px;
+}
+.input,
+.textarea {
+  margin: 10px;
+  background-color: #4b4b4b;
+  color: white;
+  outline: none;
+  border: none;
+  border-radius: 3px;
+}
+.btn {
+  align-self: flex-start;
+  margin-left: 10px;
+}
+.rightPart {
+  background-color: black;
+  color: white;
+  width: 80%;
+  min-height: 100%;
+  margin-right: 2px;
+  padding: 10px;
+}
+.containerForm {
+  height: 50%;
+}
